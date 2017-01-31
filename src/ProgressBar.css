@@ -1,0 +1,21 @@
+.ProgressBar.progress {
+    width: 100%;
+    height: 4em;
+    margin-bottom: 1em;
+
+    text-align: center;
+}
+
+.ProgressBar .progress-bar {
+    text-align: center;
+}
+
+
+.ProgressBar .progress-value {
+    position:absolute;
+    right:0;
+    left:0;
+    margin-top:0.3em;
+    font-size:2em;
+    text-shadow: 1px 1px 3px #202020;
+}
