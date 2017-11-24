@@ -4,9 +4,7 @@ A little project to provide a progress bar for the current year.
 
 Just a mind trick to move procrastinators, like myself.
 
-See [CREATE-REACT-APP.md](CREATE-REACT-APP.md) for details on working with the
-React app.
-
+See it running at http://year-progress.s3-website-ap-southeast-2.amazonaws.com/
 
 ## References
 
